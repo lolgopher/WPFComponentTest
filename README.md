@@ -1,0 +1,2 @@
+# WPFComponentTest
+WPF Component Test
